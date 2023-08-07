@@ -2,12 +2,13 @@
 
 ### Olá! Eu sou a Daniele Ferreira 👋
 
-- 🎓Sou formada no Técnico de Informática - SENAI Zerbini
-- 📚Atualmente sou estudante de Ciência da Computação na Universidade Federal de Alfenas (UNIFAL)
+- 🎓 Sou formada no Técnico de Informática no SENAI Zerbini
+- 📚 Atualmente sou estudante de Ciência da Computação na Universidade Federal de Alfenas (UNIFAL)
+- 👩‍💻 Trabalho com desenvolvimento mobile nas Unidesk
 
-  ## Onde me encontrar 🔎
-  - https://www.linkedin.com/in/dani-ferreira/
-  - d4ni.ferreira@outlook.com
+### Onde me encontrar 🔎
+- https://www.linkedin.com/in/dani-ferreira/
+- d4ni.ferreira@outlook.com
 
 
 
