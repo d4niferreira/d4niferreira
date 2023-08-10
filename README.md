@@ -4,7 +4,7 @@
 
 - 🎓 Sou formada no Técnico de Informática no SENAI Zerbini
 - 📚 Atualmente sou estudante de Ciência da Computação na Universidade Federal de Alfenas (UNIFAL)
-- 👩‍💻 Trabalho com desenvolvimento mobile nas Unidesk
+- 👩‍💻 Trabalho como programadora mobile na Unidesk
 
 ### Onde me encontrar 🔎
 - https://www.linkedin.com/in/dani-ferreira/
